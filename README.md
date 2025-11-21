@@ -8,4 +8,4 @@ works on gnome 48 (fedora 42).
 not meant for anyone else really, just for myself.
 
 
-Here's a [screenshot](https://raw.githubusercontent.com/GavinCoded/GavinCoded/refs/heads/main/desktop/2025-08-03_23-04.png) of what it looks like!
+Here's a [screenshot](https://github.com/user-attachments/assets/4187e26d-e14c-4d6a-ac70-443caf20b591) of what it looks like!
